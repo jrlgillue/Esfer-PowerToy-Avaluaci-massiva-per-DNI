@@ -6,8 +6,8 @@
 // @author       Joan Ramon López Gillué  <jrlgillue@gmail.com>
 // @match        https://bfgh.aplicacions.ensenyament.gencat.cat/bfgh/avaluacio/finalAvaluacioGrupMateria/*
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/jrlgillue/Esfer-PowerToy-Avaluaci-massiva-per-DNI/blob/main/esfera-avaluacio-dni.user.js
-// @updateURL    https://raw.githubusercontent.com/jrlgillue/Esfer-PowerToy-Avaluaci-massiva-per-DNI/blob/main/esfera-avaluacio-dni.user.js
+// @downloadURL  https://raw.githubusercontent.com/jrlgillue/Esfera-PowerToy-Avaluacio-massiva-per-DNI/blob/main/esfera-avaluacio-dni.user.js
+// @updateURL    https://raw.githubusercontent.com/jrlgillue/Esfera-PowerToy-Avaluacio-massiva-per-DNI/blob/main/esfera-avaluacio-dni.user.js
 
 // ==/UserScript==
 
@@ -276,4 +276,5 @@
 
   initWhenReady();
 })();
+
 
