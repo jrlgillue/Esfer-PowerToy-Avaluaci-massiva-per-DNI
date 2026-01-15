@@ -42,7 +42,7 @@ Per instal·lar aquest script necessites:
 
 ---
 
-![Captura de pantalla](aspecte_GUI.png)
+![Captura de pantalla](./docs/aspecte_GUI.png)
 
 ---
 
