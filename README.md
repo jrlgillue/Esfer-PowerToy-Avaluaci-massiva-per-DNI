@@ -1,7 +1,7 @@
 # Esfera-PowerToy-Avaluacio-massiva-per-DNI
 Millora accessibilitat per a la plataforma Esfer@ d'avaluació del Departament d'Educació de la Generalitat de Catalunya.
 
-Permet aplicar les notes (o l'estat) d'un RA a tot l'alumnat d'un grup.
+Permet aplicar les notes (o l'estat) d'un RA a tot l'alumnat d'un grup. Malauradament, cal fer-ho RA a RA.
 
 (Inspirat en el projecte [EsferaPowerToys](https://github.com/ctrl-alt-d/EsferaPowerToys/tree/main))
 
